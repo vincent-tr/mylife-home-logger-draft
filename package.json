@@ -1,0 +1,19 @@
+{
+  "name": "mylife-home-logger-draft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent-tr/mylife-home-logger-draft.git"
+  },
+  "author": "Vincent Trumpff",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/vincent-tr/mylife-home-logger-draft/issues"
+  },
+  "homepage": "https://github.com/vincent-tr/mylife-home-logger-draft#readme"
+}
