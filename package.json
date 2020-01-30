@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vincent-tr/mylife-home-logger-draft/issues"
   },
-  "homepage": "https://github.com/vincent-tr/mylife-home-logger-draft#readme"
+  "homepage": "https://github.com/vincent-tr/mylife-home-logger-draft#readme",
+  "dependencies": {
+    "irc": "^0.5.2"
+  }
 }
